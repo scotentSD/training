@@ -1,6 +1,6 @@
 ---
-title: Key writing principles
-category: Content
+title: Page 1
+category: Training
 order: 1
 ---
 

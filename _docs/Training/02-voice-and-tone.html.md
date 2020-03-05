@@ -1,6 +1,6 @@
 ---
 title: Voice and Tone
-category: Content
+category: Training
 order: 2
 ---
 

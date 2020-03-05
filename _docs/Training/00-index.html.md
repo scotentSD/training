@@ -1,6 +1,6 @@
 ---
-title: Welcome to the Mailchimp Content Style Guide
-category: Content
+title: Welcome
+category: Training
 order: 0
 ---
 
