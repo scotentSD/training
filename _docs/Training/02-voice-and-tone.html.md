@@ -1,5 +1,5 @@
 ---
-title: Voice and Tone
+title: Page 2
 category: Training
 order: 2
 ---
