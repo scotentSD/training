@@ -1,7 +1,7 @@
 ---
 title: Wardley Mapping 
 category: Training
-order: 1
+order: 10
 ---
 
 ## Key principles
